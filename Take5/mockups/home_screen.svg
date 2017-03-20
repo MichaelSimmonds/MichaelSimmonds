@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="1136"
+   viewBox="0 0 640.00001 1136"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="home_screen.svg">
+  <defs
+     id="defs4">
+    <symbol
+       id="icon-user"
+       viewBox="0 0 20 28">
+      <title
+         id="title16697">user</title>
+      <path
+         class="path1"
+         d="M20 21.859c0 2.281-1.5 4.141-3.328 4.141h-13.344c-1.828 0-3.328-1.859-3.328-4.141 0-4.109 1.016-8.859 5.109-8.859 1.266 1.234 2.984 2 4.891 2s3.625-0.766 4.891-2c4.094 0 5.109 4.75 5.109 8.859zM16 8c0 3.313-2.688 6-6 6s-6-2.688-6-6 2.688-6 6-6 6 2.688 6 6z"
+         id="path16699" />
+    </symbol>
+    <symbol
+       id="icon-facebook"
+       viewBox="0 0 16 28">
+      <title
+         id="title17372">facebook</title>
+      <path
+         class="path1"
+         d="M14.984 0.187v4.125h-2.453c-1.922 0-2.281 0.922-2.281 2.25v2.953h4.578l-0.609 4.625h-3.969v11.859h-4.781v-11.859h-3.984v-4.625h3.984v-3.406c0-3.953 2.422-6.109 5.953-6.109 1.687 0 3.141 0.125 3.563 0.187z"
+         id="path17374" />
+    </symbol>
+    <symbol
+       id="icon-twitter"
+       viewBox="0 0 26 28">
+      <title
+         id="title17367">twitter</title>
+      <path
+         class="path1"
+         d="M25.312 6.375c-0.688 1-1.547 1.891-2.531 2.609 0.016 0.219 0.016 0.438 0.016 0.656 0 6.672-5.078 14.359-14.359 14.359-2.859 0-5.516-0.828-7.75-2.266 0.406 0.047 0.797 0.063 1.219 0.063 2.359 0 4.531-0.797 6.266-2.156-2.219-0.047-4.078-1.5-4.719-3.5 0.313 0.047 0.625 0.078 0.953 0.078 0.453 0 0.906-0.063 1.328-0.172-2.312-0.469-4.047-2.5-4.047-4.953v-0.063c0.672 0.375 1.453 0.609 2.281 0.641-1.359-0.906-2.25-2.453-2.25-4.203 0-0.938 0.25-1.797 0.688-2.547 2.484 3.062 6.219 5.063 10.406 5.281-0.078-0.375-0.125-0.766-0.125-1.156 0-2.781 2.25-5.047 5.047-5.047 1.453 0 2.766 0.609 3.687 1.594 1.141-0.219 2.234-0.641 3.203-1.219-0.375 1.172-1.172 2.156-2.219 2.781 1.016-0.109 2-0.391 2.906-0.781z"
+         id="path17369" />
+    </symbol>
+    <symbol
+       id="icon-twitter-square"
+       viewBox="0 0 24 28">
+      <title
+         id="title17252">twitter-square</title>
+      <path
+         class="path1"
+         d="M20 9.531c-0.594 0.266-1.219 0.438-1.891 0.531 0.688-0.406 1.203-1.062 1.453-1.828-0.641 0.375-1.344 0.656-2.094 0.797-0.594-0.641-1.453-1.031-2.391-1.031-1.813 0-3.281 1.469-3.281 3.281 0 0.25 0.016 0.516 0.078 0.75-2.734-0.141-5.156-1.437-6.781-3.437-0.281 0.484-0.453 1.062-0.453 1.656 0 1.141 0.531 2.141 1.422 2.734-0.547-0.016-1.062-0.172-1.563-0.406v0.031c0 1.594 1.203 2.922 2.703 3.219-0.281 0.078-0.5 0.125-0.797 0.125-0.203 0-0.406-0.031-0.609-0.063 0.422 1.297 1.625 2.25 3.063 2.281-1.125 0.875-2.531 1.406-4.078 1.406-0.266 0-0.531-0.016-0.781-0.047 1.453 0.922 3.172 1.469 5.031 1.469 6.031 0 9.344-5 9.344-9.344 0-0.141 0-0.281-0.016-0.422 0.641-0.453 1.203-1.031 1.641-1.703zM24 6.5v15c0 2.484-2.016 4.5-4.5 4.5h-15c-2.484 0-4.5-2.016-4.5-4.5v-15c0-2.484 2.016-4.5 4.5-4.5h15c2.484 0 4.5 2.016 4.5 4.5z"
+         id="path17254" />
+    </symbol>
+    <symbol
+       id="icon-facebook-square"
+       viewBox="0 0 24 28">
+      <title
+         id="title17257">facebook-square</title>
+      <path
+         class="path1"
+         d="M19.5 2c2.484 0 4.5 2.016 4.5 4.5v15c0 2.484-2.016 4.5-4.5 4.5h-2.938v-9.297h3.109l0.469-3.625h-3.578v-2.312c0-1.047 0.281-1.75 1.797-1.75l1.906-0.016v-3.234c-0.328-0.047-1.469-0.141-2.781-0.141-2.766 0-4.672 1.687-4.672 4.781v2.672h-3.125v3.625h3.125v9.297h-8.313c-2.484 0-4.5-2.016-4.5-4.5v-15c0-2.484 2.016-4.5 4.5-4.5h15z"
+         id="path17259" />
+    </symbol>
+    <symbol
+       id="icon-pinterest-square"
+       viewBox="0 0 24 28">
+      <title
+         id="title17577">pinterest-square</title>
+      <path
+         class="path1"
+         d="M19.5 2c2.484 0 4.5 2.016 4.5 4.5v15c0 2.484-2.016 4.5-4.5 4.5h-11.328c0.516-0.734 1.359-2 1.687-3.281 0 0 0.141-0.531 0.828-3.266 0.422 0.797 1.625 1.484 2.906 1.484 3.813 0 6.406-3.484 6.406-8.141 0-3.516-2.984-6.797-7.516-6.797-5.641 0-8.484 4.047-8.484 7.422 0 2.031 0.781 3.844 2.438 4.531 0.266 0.109 0.516 0 0.594-0.297 0.047-0.203 0.172-0.734 0.234-0.953 0.078-0.297 0.047-0.406-0.172-0.656-0.469-0.578-0.781-1.297-0.781-2.344 0-3 2.25-5.672 5.844-5.672 3.187 0 4.937 1.937 4.937 4.547 0 3.422-1.516 6.312-3.766 6.312-1.234 0-2.172-1.031-1.875-2.297 0.359-1.5 1.047-3.125 1.047-4.203 0-0.969-0.516-1.781-1.594-1.781-1.266 0-2.281 1.313-2.281 3.063 0 0 0 1.125 0.375 1.891-1.297 5.5-1.531 6.469-1.531 6.469-0.344 1.437-0.203 3.109-0.109 3.969h-2.859c-2.484 0-4.5-2.016-4.5-4.5v-15c0-2.484 2.016-4.5 4.5-4.5h15z"
+         id="path17579" />
+    </symbol>
+    <symbol
+       id="icon-envelope-o"
+       viewBox="0 0 28 28">
+      <title
+         id="title16677">envelope-o</title>
+      <path
+         class="path1"
+         d="M26 23.5v-12c-0.328 0.375-0.688 0.719-1.078 1.031-2.234 1.719-4.484 3.469-6.656 5.281-1.172 0.984-2.625 2.188-4.25 2.188h-0.031c-1.625 0-3.078-1.203-4.25-2.188-2.172-1.813-4.422-3.563-6.656-5.281-0.391-0.313-0.75-0.656-1.078-1.031v12c0 0.266 0.234 0.5 0.5 0.5h23c0.266 0 0.5-0.234 0.5-0.5zM26 7.078c0-0.391 0.094-1.078-0.5-1.078h-23c-0.266 0-0.5 0.234-0.5 0.5 0 1.781 0.891 3.328 2.297 4.438 2.094 1.641 4.188 3.297 6.266 4.953 0.828 0.672 2.328 2.109 3.422 2.109h0.031c1.094 0 2.594-1.437 3.422-2.109 2.078-1.656 4.172-3.313 6.266-4.953 1.016-0.797 2.297-2.531 2.297-3.859zM28 6.5v17c0 1.375-1.125 2.5-2.5 2.5h-23c-1.375 0-2.5-1.125-2.5-2.5v-17c0-1.375 1.125-2.5 2.5-2.5h23c1.375 0 2.5 1.125 2.5 2.5z"
+         id="path16679" />
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35791056"
+     inkscape:cx="32.618374"
+     inkscape:cy="691.90177"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:snap-page="true"
+     inkscape:snap-grids="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-to-guides="false">
+    <sodipodi:guide
+       position="550.00001,40"
+       orientation="0,640"
+       id="guide22231" />
+    <sodipodi:guide
+       position="600.00001,1110"
+       orientation="-1136,0"
+       id="guide22233" />
+    <sodipodi:guide
+       position="60.000001,1100"
+       orientation="0,-640"
+       id="guide22235" />
+    <sodipodi:guide
+       position="40.000001,1120"
+       orientation="1136,0"
+       id="guide22237" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid22239" />
+    <sodipodi:guide
+       position="-79.026088,1074.7548"
+       orientation="1,0"
+       id="guide23043" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,83.637839)">
+    <rect
+       style="opacity:1;fill:#edfeff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12.19999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4216"
+       width="641.34326"
+       height="1131.5984"
+       x="0.27815282"
+       y="-83.70401" />
+    <use
+       id="use22067"
+       xlink:href="#icon-user"
+       transform="matrix(0.11661595,0,0,0.11661595,523.60347,-66.305609)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#5c4095;fill-opacity:1" />
+    <use
+       id="use22142"
+       xlink:href="#icon-twitter-square"
+       transform="matrix(0.09534491,0,0,0.10251334,-817.43685,-128.78016)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#5c4095;fill-opacity:1" />
+    <use
+       id="use22167"
+       xlink:href="#icon-facebook-square"
+       transform="matrix(0.09534093,0,0,0.10250909,-611.02318,-128.77775)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#5c4095;fill-opacity:1" />
+    <use
+       id="use22192"
+       xlink:href="#icon-pinterest-square"
+       transform="matrix(0.09534491,0,0,0.1025134,-709.71342,-128.78019)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#5c4095;fill-opacity:1" />
+    <g
+       transform="matrix(0.67589257,0,0,0.67589257,-897.87696,-1072.6214)"
+       id="g4266">
+      <circle
+         style="opacity:1;fill:#5c4095;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.61100626;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4264"
+         cx="950.68762"
+         cy="2085.4509"
+         r="103.6264" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4256"
+         y="2133.9568"
+         x="911.22424"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.55818176px;line-height:125%;font-family:Poppins;-inkscape-font-specification:Poppins;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:126.14489746px;font-family:Poppins;-inkscape-font-specification:'Poppins Light';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+           y="2133.9568"
+           x="911.22424"
+           id="tspan4258">5</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4260"
+         y="2135.7766"
+         x="346.92783"
+         style="font-style:normal;font-weight:normal;font-size:155.76585388px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#422e6a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.25px;font-family:Poppins;-inkscape-font-specification:Poppins;letter-spacing:38.94146347px;word-spacing:0.03894146px;fill:#422e6a;fill-opacity:1"
+           y="2135.7766"
+           x="346.92783"
+           id="tspan4262">take</tspan></text>
+    </g>
+    <g
+       id="g37974">
+      <flowRoot
+         transform="translate(137.58111,170.67967)"
+         style="font-style:normal;font-weight:normal;font-size:73.9596405px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#473b77;fill-opacity:1;stroke:#473b77;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowRoot30404"
+         xml:space="preserve"><flowRegion
+           id="flowRegion30406"><rect
+             y="492.51608"
+             x="134.1803"
+             height="219.1778"
+             width="672.1452"
+             id="rect30408"
+             style="fill:#473b77;fill-opacity:1;stroke:#473b77;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara37820"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:'Oswald Light';fill:#473b77;fill-opacity:1;stroke:#473b77;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Start</flowPara></flowRoot>      <rect
+         y="656.36993"
+         x="240.01266"
+         height="102.73391"
+         width="191.63826"
+         id="rect30412"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#473b77;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       style="stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.66832717,0,0,0.66832717,884.03428,-21.104283)"
+       id="g37883">
+      <g
+         transform="matrix(0.59158062,0,0,0.59158062,-592.05533,825.35667)"
+         id="g4218">
+        <rect
+           transform="matrix(-0.99996049,0.00888962,-0.00888962,-0.99996049,0,0)"
+           y="328.8631"
+           x="-195.25526"
+           height="360.18246"
+           width="368.78751"
+           id="rect4210"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f06305;stroke-width:12.19999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:254.51924133px;line-height:125%;font-family:Poppins;-inkscape-font-specification:Poppins;letter-spacing:0px;word-spacing:0px;fill:#f06305;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-74.952332"
+           y="-414.29645"
+           id="text4212"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4214"
+             x="-74.952332"
+             y="-414.29645"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:264.1229248px;font-family:Poppins;-inkscape-font-specification:'Poppins Light';fill:#f06305;fill-opacity:1;stroke:none;stroke-opacity:1">5</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3384"
+         y="571.14362"
+         x="-1189.8894"
+         style="font-style:normal;font-weight:normal;font-size:155.76585388px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#473b77;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.25px;font-family:Poppins;-inkscape-font-specification:Poppins;letter-spacing:38.94146347px;word-spacing:0.03894146px;fill:#473b77;fill-opacity:1"
+           y="571.14362"
+           x="-1189.8894"
+           id="tspan3386"
+           sodipodi:role="line">take</tspan></text>
+    </g>
+  </g>
+</svg>

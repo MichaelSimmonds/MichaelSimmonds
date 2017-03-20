@@ -1,0 +1,6 @@
+require "date"
+def tomorrow (days)
+  tomorrow = Date.today + days
+  puts tomorrow.strftime("%m/%d/%Y")
+end
+tomorrow(5)
